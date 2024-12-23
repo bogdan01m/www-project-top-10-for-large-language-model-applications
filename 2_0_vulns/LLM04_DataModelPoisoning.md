@@ -49,10 +49,10 @@
   Конкурент или злоумышленник создает поддельные документы для обучения, что приводит к неправильным выводам модели.
 #### Сценарий #4
   Ненадлежащее фильтрование позволяет злоумышленнику вставить вводящие в заблуждение данные через инъекцию промптов, ухудшая качество выводов.
-#### Scenario #5
+#### Сценарий #5
   Нападающий использует техники отравления для внедрения триггерного бэкдора в модель, что может привести к обходу аутентификации, утечке данных или выполнению скрытых команд.
 
-### Reference Links
+### Ссылки на источники
 
 1. [How data poisoning attacks corrupt machine learning models](https://www.csoonline.com/article/3613932/how-data-poisoning-attacks-corrupt-machine-learning-models.html): **CSO Online**
 2. [MITRE ATLAS (framework) Tay Poisoning](https://atlas.mitre.org/studies/AML.CS0009/): **MITRE ATLAS**

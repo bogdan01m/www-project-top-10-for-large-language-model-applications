@@ -69,7 +69,7 @@
 - устранение избыточной автономии за счет необходимости ручного подтверждения пользователем отправки каждого письма, подготовленного расширением LLM.
 
 Альтернативно, для уменьшения ущерба можно реализовать ограничение скорости (rate limiting) для интерфейса отправки почты.
-### Reference Links
+### Ссылки на источники
 
 1. [Slack AI data exfil from private channels](https://promptarmor.substack.com/p/slack-ai-data-exfiltration-from-private): **PromptArmor**
 2. [Rogue Agents: Stop AI From Misusing Your APIs](https://www.twilio.com/en-us/blog/rogue-ai-agents-secure-your-apis): **Twilio**

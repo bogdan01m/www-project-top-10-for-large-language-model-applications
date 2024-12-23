@@ -52,7 +52,7 @@ Retrieval Augmented Generation (RAG) — это метод адаптации м
 #### Смягчение
   Необходимо следить за влиянием RAG на поведение базовой модели и при необходимости корректировать процесс дополнения, чтобы сохранять желаемые качества, такие как эмпатия (См. #8).
 
-### Reference Links
+### Ссылки на источники
 
 1. [Augmenting a Large Language Model with Retrieval-Augmented Generation and Fine-tuning](https://learn.microsoft.com/en-us/azure/developer/ai/augment-llm-rag-fine-tuning)
 2. [Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models](https://arxiv.org/abs/2410.07176)  
